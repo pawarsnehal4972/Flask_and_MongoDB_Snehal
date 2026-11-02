@@ -1,0 +1,11 @@
+* { box-sizing: border-box; }
+body { font-family: Segoe UI, Arial, sans-serif; background: #f3f5f9; margin: 0; color: #222; }
+.container { max-width: 480px; margin: 60px auto; background: #fff; padding: 32px;
+             border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,.08); }
+h1 { margin-top: 0; font-size: 1.5rem; }
+label { display: block; margin: 14px 0 4px; font-weight: 600; }
+input, textarea { width: 100%; padding: 10px; border: 1px solid #c8cdd6; border-radius: 6px; font-size: 1rem; }
+button, .btn { display: inline-block; margin-top: 18px; padding: 10px 20px; background: #2f6fed; color: #fff;
+               border: none; border-radius: 6px; font-size: 1rem; text-decoration: none; cursor: pointer; }
+.error { background: #fdecea; color: #b3261e; border: 1px solid #f5c2be; padding: 10px 12px; border-radius: 6px; }
+.success { background: #e7f6ec; color: #1e6b3a; border: 1px solid #b7e3c6; padding: 14px; border-radius: 6px; font-size: 1.1rem; }

@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name": "Snehal", "course": "Flask and MongoDB", "city": "Aurangabad"},
+  {"id": 2, "name": "Aarav", "course": "Python", "city": "Pune"},
+  {"id": 3, "name": "Isha", "course": "Web Development", "city": "Mumbai"},
+  {"id": 4, "name": "Rohan", "course": "Data Science", "city": "Nagpur"}
+]
